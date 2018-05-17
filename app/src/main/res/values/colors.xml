@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF6A6A</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="background">#f3f4f6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="line">#e5e5e5</color>
+    <color name="main">#FF6A6A</color>
+    <color name="qianhui">#a2a2a2</color>
+    <color name="shenhui">#5e5e5e</color>
+    <color name="yellow">#f49400</color>
+    <color name="title_color">#f49400</color>
+    <color name="word_black">#414141</color>
+
+</resources>

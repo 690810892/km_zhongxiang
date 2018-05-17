@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">众享</string>
+    <!-- WXPayEntryActivity -->
+    <string name="pay_result_tip">支付成功！</string>
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+</resources>
